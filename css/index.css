@@ -42,9 +42,6 @@ button {
   max-width: 1000px;
   width: 100%;
   margin: 0 auto;
-  padding-left: 30px;
-  padding-right: 30px;
-  box-sizing: border-box;
 }
 .header {
   width: 100%;
@@ -229,4 +226,22 @@ button {
   line-height: 44.06px;
   color: #21243d;
   margin-bottom: 60px;
+}
+.understanding__list {
+  display: flex;
+  flex-direction: column;
+  margin-top: 47px;
+  gap: 25px;
+}
+.understanding__paragraph {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 29.38px;
+  color: #21243d;
+}
+.understanding__list-title {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 29.38px;
+  color: #21243d;
 }
