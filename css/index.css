@@ -116,3 +116,23 @@ button {
   color: #21243d;
   margin-top: 40px;
 }
+.promo__button {
+  width: 209px;
+  height: 76px;
+  background: #ff6464;
+  color: #fff;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29.38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border-radius: 2px;
+  margin-top: 63px;
+}
+.promo__image {
+  width: 243px;
+  height: 243px;
+  border-radius: 50%;
+}
