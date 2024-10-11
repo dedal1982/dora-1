@@ -213,3 +213,20 @@ button {
   line-height: 60px;
   color: #21243d;
 }
+.understanding__top {
+  width: 100%;
+  display: flex;
+  gap: 46px;
+  align-items: end;
+}
+.understanding__image {
+  width: 279px;
+  height: 280px;
+}
+.understanding__subtitle {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 44.06px;
+  color: #21243d;
+  margin-bottom: 60px;
+}
